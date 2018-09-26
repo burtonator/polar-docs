@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Polar Docs', // Title for your website.
+  title: 'Polar', // Title for your website.
   tagline: 'Polar Documentation',
   url: 'https://docs.getpolarized.io', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'Getting-Started', label: 'Docs'},
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
@@ -48,13 +48,13 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
-  favicon: 'img/favicon.png',
+  // headerIcon: 'assets/logo/icon.svg',
+  // footerIcon: 'assets/logo/icon.svg',
+  //favicon: 'img/favicon.png',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#2E8555',
+    primaryColor: '#808080',
     secondaryColor: '#205C3B',
   },
 

@@ -24,7 +24,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6124b37-a416-4c40-8237-a4ac74bbb239" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/burton.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Pagemarks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/logo/icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/logo/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/logo/icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Getting-Started.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/core/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/website/core/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/pages/en/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/website/pages/en/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/sidebars.json" beforeDir="false" afterPath="$PROJECT_DIR$/website/sidebars.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/siteConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/website/siteConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/static/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/static/css/custom.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,26 +54,36 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="121" />
+          <entry key="css" value="91" />
+          <entry key="js" value="301" />
+          <entry key="json" value="99" />
+          <entry key="md" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="121" />
+          <entry key="CSS" value="91" />
+          <entry key="JSON" value="99" />
+          <entry key="JavaScript" value="301" />
+          <entry key="Markdown" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="3" />
-          <entry key="json" value="1" />
-          <entry key="md" value="6" />
+          <entry key="css" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="js" value="9" />
+          <entry key="json" value="5" />
+          <entry key="md" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="3" />
-          <entry key="Markdown" value="6" />
+          <entry key="CSS" value="1" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="9" />
+          <entry key="Markdown" value="19" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -72,28 +94,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/doc1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/website/pages/en/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -101,21 +105,30 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/website/siteConfig.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="272">
+              <caret line="63" column="29" lean-forward="true" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/pages/en/help.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/website/static/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/pages/en/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1071" />
+        <entry file="file://$PROJECT_DIR$/docs/Getting-Started.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="544">
+                <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
+            </state>
           </provider>
         </entry>
       </file>
@@ -140,6 +153,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/exampledoc4.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/exampledoc5.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -150,11 +173,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/exampledoc4.md">
+        <entry file="file://$PROJECT_DIR$/docs/Pagemarks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor />
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/sidebars.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -165,7 +199,21 @@
     <findStrings>
       <find>docs</find>
       <find>facebook op</find>
+      <find>Feature one</find>
+      <find>Feature1</find>
+      <find>Features</find>
+      <find>index.js</find>
+      <find>doc1</find>
+      <find>logo</find>
+      <find>color</find>
+      <find>favicon</find>
+      <find>pagemarks</find>
+      <find>sidebar</find>
+      <find>bar</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -180,6 +228,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/website/core/Footer.js" />
+        <option value="$PROJECT_DIR$/website/pages/en/index.js" />
+        <option value="$PROJECT_DIR$/website/i18n/en.json" />
+        <option value="$PROJECT_DIR$/website/static/css/custom.css" />
+        <option value="$PROJECT_DIR$/docs/Pagemarks.md" />
+        <option value="$PROJECT_DIR$/website/sidebars.json" />
+        <option value="$PROJECT_DIR$/docs/Getting-Started.md" />
         <option value="$PROJECT_DIR$/website/siteConfig.js" />
       </list>
     </option>
@@ -1035,10 +1090,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="553" />
-    <option name="y" value="282" />
-    <option name="width" value="1663" />
-    <option name="height" value="1153" />
+    <option name="x" value="284" />
+    <option name="y" value="341" />
+    <option name="width" value="1357" />
+    <option name="height" value="1164" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1071,14 +1126,47 @@
               <item name="polar-docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="polar-docs" type="462c0819:PsiDirectoryNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="polar-docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="polar-docs" type="462c0819:PsiDirectoryNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="en" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polar-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polar-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="i18n" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polar-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polar-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polar-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polar-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polar-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polar-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="logo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polar-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polar-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1092,6 +1180,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/website/static/assets/logo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1141,29 +1234,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537897976098</updated>
-      <workItem from="1537897977362" duration="1294000" />
+      <workItem from="1537897977362" duration="4699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1294000" />
+    <option name="totallyTimeSpent" value="4699000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="553" y="282" width="1663" height="1153" extended-state="0" />
+    <frame x="284" y="341" width="1357" height="1164" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24953675" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30769232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="JProfiler" />
       <window_info anchor="bottom" id="TeamCity" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.56060606" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -1189,9 +1283,6 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/sidebars.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1202,10 +1293,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/exampledoc5.md">
+    <entry file="file://$PROJECT_DIR$/website/blog/2016-03-11-blog-post.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor />
@@ -1213,7 +1301,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/exampledoc4.md">
+    <entry file="file://$PROJECT_DIR$/website/blog/2017-04-10-blog-post-two.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/blog/2017-09-25-testing-rss.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/blog/2017-09-26-adding-rss.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/blog/2017-10-24-new-version-1.0.0.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/node_modules/docusaurus/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="335">
+            <caret line="719" selection-start-line="719" selection-end-line="719" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/pages/en/users.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/node_modules/docusaurus/examples/basics/docs-examples-from-docusaurus/doc1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/node_modules/docusaurus/examples/basics/sidebars.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/core/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/i18n/en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/pages/en/help.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/pages/en/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/static/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/doc2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor />
@@ -1229,7 +1424,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/doc2.md">
+    <entry file="file://$PROJECT_DIR$/docs/exampledoc4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor />
@@ -1237,26 +1432,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/pages/en/help.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/pages/en/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1071" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/doc1.md">
+    <entry file="file://$PROJECT_DIR$/docs/exampledoc5.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Pagemarks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Getting-Started.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="544">
+            <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/sidebars.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/website/siteConfig.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="272">
+          <caret line="63" column="29" lean-forward="true" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
         </state>
       </provider>
     </entry>

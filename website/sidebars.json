@@ -1,6 +1,9 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
+    "Overview": [
+      "Getting-Started",
+      "Pagemarks"
+    ],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
   },
